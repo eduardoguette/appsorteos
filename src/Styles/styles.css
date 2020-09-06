@@ -1,0 +1,13 @@
+:root{
+  --Color1: #7530ff;
+  --Color2: #ffbe00;
+  --Color3: #ff6960;
+  --Color4: #369fff;
+}
+
+body{
+  margin: auto;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+
+}
